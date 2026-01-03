@@ -1,0 +1,1 @@
+pip install openai-whisper torch sounddevice scipy python-docx reportlab
