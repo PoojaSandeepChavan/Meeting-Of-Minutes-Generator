@@ -1,1 +1,15 @@
-pip install openai-whisper torch sounddevice scipy python-docx reportlab
+pip install openai-whisper 
+torch 
+sounddevice 
+scipy 
+python-docx 
+reportlab
+winget install Gyan.FFmpeg
+
+# run as per the sequence 
+# python record_meeting.py
+# python transcribe.py
+# python action_items.py
+# python mom_generator.py
+# python export_word.py
+# python export_pdf.py
