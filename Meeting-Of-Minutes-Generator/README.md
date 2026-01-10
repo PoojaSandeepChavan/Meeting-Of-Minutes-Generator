@@ -40,7 +40,7 @@ Version Control: Git & GitHub
 
 Project Structure
 
-MEETING-OF-MINUTES-GENERATOR
+**MEETING-OF-MINUTES-GENERATOR**
 │
 
 ├── .venv/
@@ -60,6 +60,43 @@ MEETING-OF-MINUTES-GENERATOR
 │   ├── MoM.docx                # Minutes of Meeting (Word)
 
 │   ├── MoM.pdf                 # Minutes of Meeting (PDF)
+
+│   └── MoM.txt                 # Minutes of Meeting (Text)
+
+│
+
+├── action_items.py              # Logic to extract action items
+
+├── export_pdf.py                # Export MoM to PDF
+
+├── export_word.py               # Export MoM to Word
+
+├── mom_generator.py             # Main script to generate MoM
+
+├── record_meeting.py            # Records audio from microphone
+
+├── transcribe.py                # Converts audio to text
+
+│
+
+├── requirements.txt             # Python dependencies
+
+├── README.md                    # Project documentation
+
+└── .gitignore                   # Files/folders to ignore
+
+
+MEETING-OF-MINUTES-GENERATOR
+│
+├── .venv/
+│   └── (Virtual Environment – should NOT be pushed to GitHub)
+│
+├── outputs/
+│   ├── action_items.txt        # Extracted action items
+│   ├── meeting_transcript.txt  # Full meeting transcription
+│   ├── meeting.wav             # Recorded meeting audio
+│   ├── MoM.docx                # Minutes of Meeting (Word)
+│   ├── MoM.pdf                 # Minutes of Meeting (PDF)
 │   └── MoM.txt                 # Minutes of Meeting (Text)
 │
 ├── action_items.py              # Logic to extract action items
@@ -72,3 +109,4 @@ MEETING-OF-MINUTES-GENERATOR
 ├── requirements.txt             # Python dependencies
 ├── README.md                    # Project documentation
 └── .gitignore                   # Files/folders to ignore
+
