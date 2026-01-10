@@ -1,10 +1,14 @@
-pip install openai-whisper 
 torch 
 sounddevice 
 scipy 
 python-docx 
 reportlab
 winget install Gyan.FFmpeg
+pip install -U openai-whisper
+pip install python-docx
+pip install reportlab
+
+
 
 # run as per the sequence 
 # python record_meeting.py
