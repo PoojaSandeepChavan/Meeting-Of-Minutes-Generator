@@ -39,19 +39,26 @@ File Handling: TXT, PDF
 Version Control: Git & GitHub
 
 Project Structure
-![Uploading image.png…]()
-
 
 MEETING-OF-MINUTES-GENERATOR
 │
+
 ├── .venv/
+
 │   └── (Virtual Environment – should NOT be pushed to GitHub)
+
 │
+
 ├── outputs/
+
 │   ├── action_items.txt        # Extracted action items
+
 │   ├── meeting_transcript.txt  # Full meeting transcription
+
 │   ├── meeting.wav             # Recorded meeting audio
+
 │   ├── MoM.docx                # Minutes of Meeting (Word)
+
 │   ├── MoM.pdf                 # Minutes of Meeting (PDF)
 │   └── MoM.txt                 # Minutes of Meeting (Text)
 │
