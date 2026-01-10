@@ -4,7 +4,7 @@
 
 A Python-based application that records meetings, converts speech to text, extracts key discussion points and action items, and generates well-formatted Meeting Minutes in text or PDF format.
 
-🚀 Features
+**🚀 Features**
 
 🎙️ Record meeting audio
 
@@ -18,7 +18,7 @@ A Python-based application that records meetings, converts speech to text, extra
 
 🐍 Simple Python-based implementation
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Programming Language: Python
 
@@ -38,9 +38,9 @@ File Handling: TXT, PDF
 
 Version Control: Git & GitHub
 
-Project Structure
+**Project Structure**
 
-**MEETING-OF-MINUTES-GENERATOR**
+*MEETING-OF-MINUTES-GENERATOR*
 │
 
 ├── .venv/
