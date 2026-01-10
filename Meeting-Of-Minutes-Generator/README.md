@@ -39,6 +39,9 @@ File Handling: TXT, PDF
 Version Control: Git & GitHub
 
 Project Structure
+![Uploading image.png…]()
+
+
 MEETING-OF-MINUTES-GENERATOR
 │
 ├── .venv/
