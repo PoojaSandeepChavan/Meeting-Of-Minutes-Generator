@@ -1,0 +1,19 @@
+
+MINUTES OF MEETING
+Date: 2026-01-12
+
+Agenda:
+- Project discussion
+
+Summary:
+ so my Good morning regarding last week tasks the data collection phase has been completed. We gather data from all required sources and perform initial validation. Yes, there were some inconsistencies and missing values in the raw data. We resolve most of them by data cleaning and standardization, but few records still confirmations from the source team. I will do that. From my side I started working data on data analysis. I have completed exploratory data. I have prepared a draft report and reveal I will share it with the team today. I will share it with the team today for the feedback. Yes,...
+
+Action Items:
+1. I have prepared a draft report and reveal I will share it with the team today.
+2. I will also add filters and summary matrices for better clarity.
+3. I will be providing the pending confirmation.
+4. I will complete the dashboard after approval.
+5. I will do that.
+6. I will share it with the team today for the feedback.
+7. Once the final analysing is uproot, I will be integrated the inside into the dashboard.
+
