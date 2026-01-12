@@ -1,12 +1,15 @@
-torch 
-sounddevice 
-scipy 
-python-docx 
+torch
+numpy
+sounddevice
+scipy
+openai-whisper
+python-docx
 reportlab
+# To set up the environment, run the following commands:
+# Install ffmpeg using winget
 winget install Gyan.FFmpeg
-pip install -U openai-whisper
-pip install python-docx
-pip install reportlab
+# Install the required Python packages
+pip install -r requirements.txt 
 
 
 
